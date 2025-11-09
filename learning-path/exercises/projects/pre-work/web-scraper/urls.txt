@@ -1,0 +1,8 @@
+# Sample URLs for testing
+# Edit this file with your own URLs
+
+https://example.com
+https://golang.org
+https://github.com
+https://stackoverflow.com
+https://news.ycombinator.com
